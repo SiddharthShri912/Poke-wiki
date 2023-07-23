@@ -16,3 +16,5 @@ Future plans:
 1. Use a better Api to extract more information and display more information.
 2. Make a more responsive style as I am still stuck on very basic designs.
 3. Add some animations and improve overall styling.
+
+A relatively small project, but I wanted to do this to get a grasp and an essence of API and I have used a public API but I wish to use better APIs in the future in my projects.
