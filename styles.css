@@ -1,0 +1,81 @@
+html{
+    height: 100%;
+}
+
+body{
+    background-image: url(finalbg.webp);
+    background-size: fit;
+    background-position: center;
+    height: 100%;
+}
+
+.header{
+    margin-top: 60px;
+    font-size: x-large;
+    font-family: sans-serif;
+    color: black;
+    margin-left: 140px;
+    font-weight: bold;
+}
+
+.js-input{
+    margin-top: 80px;
+    margin-left: 40px;
+    width: 270px;
+    height: 40px;
+    color: black;
+    padding: 5px;
+}
+
+.submit-btn{
+    margin-left: 2px;
+    height: 40px;
+    width: 60px;
+    border: none;
+    margin-bottom: 10px;
+    opacity: 0.6;
+    margin-top: 6px;
+    background-color: green;
+    color: white;
+}
+
+.note{
+    margin-top: 50px;
+    width: 150px;
+    background-color: white;
+    border: black solid 2px;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.submit-btn:hover{
+    opacity: 1;
+    background-color: black;
+    color: white;
+}
+
+.output{
+    margin-top: 15px;
+    margin-left: 40px;
+    border: solid 2px black;
+    width: 340px;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: black;
+}
+
+tr,th{
+    border: solid black 2px;
+    padding: 5px;
+    text-align: center;
+}
+
+.status{
+    margin-top: 0px;
+    margin-left: 110px;
+}
+
+.Git{
+    text-decoration: none;
+    color: white;
+}
